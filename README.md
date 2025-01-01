@@ -6,8 +6,8 @@ Welcome to my portfolio! This README highlights my skills, projects, and certifi
 1. [About Me](#about-me)
 2. [Skills](#skills)
 3. [Projects](#projects)
-4. [Certifications](#certifications)
-5. [Contact and CV](#contact-and-cv)
+5. [Certifications](#certifications)
+6. [Contact and CV](#contact-and-cv)
 
 ---
 
@@ -49,31 +49,31 @@ Hi! I'm Bahaa Medhat Wanas, a junior data analyst with a strong foundation in da
 ### Power BI Projects
 1. **[Sales Overview Report](https://github.com/BahaaMedhat1/Sales-Overview-Report-using-Power-BI?tab=readme-ov-file#sales-overview-report)**
    - This project showcases a dynamic Sales Overview Dashboard built using Power BI. The dashboard is designed to provide insightful analysis of key performance indicators (KPIs) such as Sales, Profit, and Quantity across four regions: Central, East, South, and West.
-   - ![Dashboard Preview](./images/sales-overview-report.png)
+   - ![Dashboard Preview](./Sales-OverView-BI.png)
 
 2. **[Call Center Dashboard](https://github.com/BahaaMedhat1/Call-Center-Dashboard-with-Power-Bi?tab=readme-ov-file#call-center-dashboard)**
    - This repository showcases a Call Center Dashboard developed using Power BI. The dashboard provides insights into call center performance through key metrics, charts, and detailed call records, enabling effective monitoring and decision-making.
-   - ![Dashboard Preview](./images/call-center-dashboard.png)
+   - ![Dashboard Preview](./Call-Dash-BI.png)
 
 3. **[Road Accident Analysis in England (2022-2023)](https://github.com/BahaaMedhat1/Road-Accident-Analysis-using-Power-Bi?tab=readme-ov-file#road-accident-analysis-in-england-2022-2023)**
    - This project delivers a comprehensive analysis of road accidents in England for 2022 and 2023. The objective was to create an interactive Power BI dashboard that provides actionable insights into accident trends, aiding stakeholders in identifying patterns and areas for safety improvement.
-   - ![Dashboard Preview](./images/road-accident-analysis.png)
+   - ![Dashboard Preview](./Acc-Dash-BI.png)
 
 4. **[Pizza Sales Dashboard](https://github.com/BahaaMedhat1/Pizza-Sales-Using-Power-BI?tab=readme-ov-file#pizza-sales-dashboard)**
    - This repository features a Pizza Sales Dashboard built using Power BI. The dashboard provides insights into pizza sales trends, customer preferences, and business performance through key metrics, interactive charts, and visualizations.
-   - ![Dashboard Preview](./images/pizza-sales-dashboard.png)
+   - ![Dashboard Preview](./Pizza-Dash-BI.png)
 
 5. **[E-commerce Sales Analysis Dashboard](https://github.com/BahaaMedhat1/Ecommerce-Analysis-with-Power-BI?tab=readme-ov-file#e-commerce-sales-analysis-dashboard)**
    - This project is about creating an interactive Power BI dashboard to help an e-commerce business analyze and understand its sales data. The dashboard focuses on key metrics like sales trends, profit margins, and product performance. It’s designed to give businesses insights that can help them make smarter decisions to improve sales and grow their business.
-   - ![Dashboard Preview](./images/ecommerce-sales-analysis.png)
+   - ![Dashboard Preview](./Ecomm-Dash-BI.png)
 
 6. **[HR Analytics Dashboard Project](https://github.com/BahaaMedhat1/HR-Dashboard-using-Power-BI?tab=readme-ov-file#hr-analytics-dashboard-project)**
    - This project involves an HR Analytics Dashboard developed in Power BI to analyze employee data, focusing on metrics such as attrition rates, employee demographics, satisfaction ratings, and departmental performance. The goal is to provide actionable insights to HR teams for strategic decision-making, particularly in addressing employee turnover.
-   - ![Dashboard Preview](./images/hr-analytics-dashboard.png)
+   - ![Dashboard Preview](./Hr-Dash-BI.png)
 
 7. **[Car Sales Analysis Dashboard](https://github.com/BahaaMedhat1/Car-Sales-Analysis-using-Power-BI?tab=readme-ov-file#car-sales-analysis-dashboard)**
    - The "Car Sales Analysis Dashboard" is a comprehensive analytical tool built using Power BI to provide valuable insights into car sales data. This project helps businesses, analysts, and stakeholders understand sales trends, identify high-performing regions, and make data-driven decisions. The dashboard focuses on year-to-date (YTD) metrics, comparisons, and visual representations to enhance data interpretation.
-   - ![Dashboard Preview](./images/car-sales-analysis.png)
+   - ![Dashboard Preview](./Hr-Dash-BI.png)
 
 ### Excel Projects
 1. **[Blinkit Grocery Analysis Dashboard](https://github.com/BahaaMedhat1/Blinkit-Grocery-Analysis-using-Excel?tab=readme-ov-file#blinkit-grocery-analysis-dashboard)**
