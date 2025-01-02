@@ -3,16 +3,19 @@
 Welcome to my portfolio! This README highlights my skills, projects, and certifications as a data analyst.
 
 ## Table of Contents
-1. [About Me](#About-Me)
-2. [Skills](#skills)
-3. [Projects](#projects)
-5. [Certifications](#certifications)
-6. [Contact and CV](#contact-and-cv)
+1. [About Me](#about-me)  
+2. [Skills](#skills)  
+3. [Projects](#projects)  
+   - [MySQL Projects](#mysql-projects)  
+   - [Power BI Projects](#power-bi-projects)  
+   - [Excel Projects](#excel-projects)  
+4. [Certifications](#certifications)  
+5. [Contact and CV](#contact-and-cv)  
 
 ---
 
 ## About Me
-Hi! I'm Bahaa Medhat Wanas, a junior data analyst with a strong foundation in data analysis and visualization. I graduated from the Faculty of Artificial Intelligence, Kafr Elsheikh University in 2024, and I am currently enrolled in the ALX Data Science track. I am passionate about leveraging data to uncover insights and drive decision-making.
+Hi! I'm **Bahaa Medhat Wanas**, a junior data analyst with a strong foundation in data analysis and visualization. I graduated from the Faculty of Artificial Intelligence, Kafr Elsheikh University in 2024 with **3.16(B)** GPA, and I am currently enrolled in the ALX Data Science track. I am passionate about leveraging data to uncover insights and drive decision-making.
 
 ---
 
@@ -106,26 +109,41 @@ Hi! I'm Bahaa Medhat Wanas, a junior data analyst with a strong foundation in da
 
 ## Certifications
 
-1. **Data Analysis Challenger Track**  
-   - Sponsored by the **Ministry of Communications and Information Technology of Egypt** in collaboration with Udacity.  
-   - This program focused on building a strong foundation in data analysis, including data cleaning, visualization, and exploratory data analysis using tools like Python, Pandas, and Matplotlib.  
-   - ![Data Analysis Challenger Certificate](./Data-Analysis-Challenger.png)
+1. **Bachelor’s Degree in Artificial Intelligence**  
+   - Graduated from the Faculty of Artificial Intelligence, Kafr Elsheikh University Jul 2024.  
+   - ![Degree Certificate](./MyDegree.png)  
 
+2. **Egypt - FWD Certificates**  
+   - **Data Analysis Challenger Track**  
+     - Sponsored by the **Ministry of Communications and Information Technology of Egypt** in collaboration with Udacity.  
+     - This program focused on building a strong foundation in data analysis, including data cleaning, visualization, and exploratory data analysis using tools like Python, Pandas, and Matplotlib.  
+     - ![Challenger Certificate](./Data-Analysis-Challenger.png)  
 
-2. **Data Analysis Professional Nanodegree**  
-   - Offered by **Udacity** and sponsored by the **Ministry of Communications and Information Technology of Egypt**.  
-   - This program provided in-depth knowledge of advanced data analysis techniques, including predictive modeling, data storytelling, and project-based learning with real-world datasets.  
-   - ![Data Analysis Professional Certificate](./Data-Analysis-Professional.png)
+   - **Data Analysis Professional Nanodegree**  
+     - Offered by **Udacity** and sponsored by the **Ministry of Communications and Information Technology of Egypt**.  
+     - This program provided in-depth knowledge of advanced data analysis techniques, including predictive modeling, data storytelling, and project-based learning with real-world datasets.  
+     - ![Professional Certificate](./Data-Analysis-Professional.png)  
+
+3. **DataCamp Certifications**  
+   - **Python Data Science Toolbox (Part 1)**  
+     - Successfully completed a 3-hour course focusing on Python functions, error handling, and advanced function techniques.  
+     - ![Python Data Science Toolbox (Part 1)](./Python1.png)  
+
+   - **Python Data Science Toolbox (Part 2)**  
+     - Successfully completed a 4-hour course covering iterators, list comprehensions, and generators in Python.  
+     - ![Python Data Science Toolbox (Part 2)](./Python2.png)  
+
+   - **Data Manipulation with pandas**  
+     - Successfully completed a 4-hour course focusing on data wrangling and manipulation using pandas in Python.  
+     - ![Data Manipulation with pandas](./Pandas.png)
 
 ---
 
 ## Contact and CV
 Feel free to reach out or explore more about my work!
 
-- **Email:** [bahaa.wanas@example.com](mailto:bahaa.wanas@example.com)
-- **LinkedIn:** [linkedin.com/in/bahaawanas](https://linkedin.com/in/bahaawanas)
-- **GitHub:** [github.com/BahaaMedhat1](https://github.com/BahaaMedhat1)
+- **[My CV](https://drive.google.com/file/d/1Widi2xcEXcWbIkJpIwSHg-DOuTz2mXji/view?usp=sharing)**
+- **[Bahaawanas427@gmail.com](mailto:Bahaawanas427@gmail.com)** 
+- **[LinkedIn](https://www.linkedin.com/in/bahaa-wanas-9797b923a)**
 
-### CV
-You can view my CV directly:
-[View My CV](https://drive.google.com/file/d/18h1f9D5SrWIpXdr2IAtryq4d-62O9L17/view?usp=sharing)
+--- 
