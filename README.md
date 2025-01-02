@@ -1,9 +1,9 @@
-# Portfolio - Bahaa Medhat Wanas
+# Bahaa Medhat Wanas - Portfolio
 
 Welcome to my portfolio! This README highlights my skills, projects, and certifications as a data analyst.
 
 ## Table of Contents
-1. [About Me](#about-me)
+1. [About Me](#About-Me)
 2. [Skills](#skills)
 3. [Projects](#projects)
 5. [Certifications](#certifications)
@@ -17,11 +17,11 @@ Hi! I'm Bahaa Medhat Wanas, a junior data analyst with a strong foundation in da
 ---
 
 ## Skills
-- **Programming Languages**: Python
-- **Data Visualization Tools**: Power BI (including Power Query, Power Pivot), Tableau
-- **Data Manipulation and Analysis**: Excel (including Power Query, Power Pivot), Pandas, NumPy
+- **Data Visualization Tools**: Power BI (including Power Query, Dax, Data Modeling, Dynamic Charts)
+- **Data Manipulation and Analysis**: Excel (including Power Query, Power Pivot, Data Modeling)
 - **Database Management**: MySQL
-- **Other Tools**: Figma (for design and wireframes)
+- **Other Tools**: Figma (for design)
+- **Programming Languages**: Python
 - **Soft Skills**: Problem-solving, critical thinking, collaboration, and communication
 
 ---
@@ -30,21 +30,27 @@ Hi! I'm Bahaa Medhat Wanas, a junior data analyst with a strong foundation in da
 ### MySQL Projects
 1. **[Library Management System Project](https://github.com/BahaaMedhat1/Library-Management-System-Using-MySQL?tab=readme-ov-file#library-management-system-project)**
    - This project is a Library Management System developed using MySQL to efficiently manage and analyze library operations. It includes database creation, schema design, data loading, and advanced querying to handle tasks such as book tracking, branch performance analysis, and member management.
+   - ![Dashboard Preview](./Library.jpg)
 
 2. **[Netflix Movies Analysis](https://github.com/BahaaMedhat1/Analyzing-Netflix-Movies-using-MySQL?tab=readme-ov-file#netflix-movies-analysis-)**
    - This project leverages MySQL to analyze the Netflix dataset, aiming to uncover trends, insights, and patterns about Netflix's movie and TV show offerings. The dataset, netflix_titles.csv, contains comprehensive information about Netflix's catalog, including title details, ratings, release years, genres, and more.
+   - ![Dashboard Preview](./Netfilx.jpg)
 
 3. **[Spotify Analysis Project](https://github.com/BahaaMedhat1/Spotify-Tracks-Analyzing-using-MySQL?tab=readme-ov-file#spotify-analysis-project)**
    - This project involves analyzing Spotify data using MySQL. The aim is to explore and derive insights about tracks, artists, and albums by creating a structured database schema, performing exploratory data analysis (EDA), and running advanced SQL queries.
+   - ![Dashboard Preview](./Spotify.jpg)
 
 4. **[Coffee Shop Sales Analysis Project](https://github.com/BahaaMedhat1/Coffee-Shop-Analysis-using-MySQL?tab=readme-ov-file#coffee-shop-sales-analysis-project)**
    - This project is a Coffee Shop Sales Analysis system developed using MySQL to analyze sales performance, customer behavior, and product popularity. It includes database schema creation, data loading, and a series of exploratory data analysis (EDA) queries to derive actionable insights for business decision-making.
+   - ![Dashboard Preview](./Coffee.jpg)
 
 5. **[Walmart Sales Analysis](https://github.com/BahaaMedhat1/Analysing-WalMart-Sales-Using-MySQL?tab=readme-ov-file#walmart-sales-analysis)**
    - This project involves analyzing Walmart sales data using MySQL to uncover key insights into sales performance, customer behavior, and product trends. The goal is to demonstrate advanced data wrangling, feature engineering, and analysis techniques while providing actionable insights for business decision-making.
+   - ![Dashboard Preview](./Walmart.jpg)
 
 6. **[Data Cleaning with MySQL](https://github.com/BahaaMedhat1/Data-Cleaning-with-MySQL?tab=readme-ov-file#data-cleaning-with-mysql)**
    - This project demonstrates a systematic approach to cleaning data using SQL on MySQL. The dataset contains various issues typical of real-world data, such as duplicate records, inconsistent formatting, and unnecessary whitespace. The steps in this project illustrate effective SQL techniques to identify and resolve these issues.
+   - ![Dashboard Preview](./Clean.jpg)
 
 ### Power BI Projects
 1. **[Sales Overview Report](https://github.com/BahaaMedhat1/Sales-Overview-Report-using-Power-BI?tab=readme-ov-file#sales-overview-report)**
@@ -73,7 +79,7 @@ Hi! I'm Bahaa Medhat Wanas, a junior data analyst with a strong foundation in da
 
 7. **[Car Sales Analysis Dashboard](https://github.com/BahaaMedhat1/Car-Sales-Analysis-using-Power-BI?tab=readme-ov-file#car-sales-analysis-dashboard)**
    - The "Car Sales Analysis Dashboard" is a comprehensive analytical tool built using Power BI to provide valuable insights into car sales data. This project helps businesses, analysts, and stakeholders understand sales trends, identify high-performing regions, and make data-driven decisions. The dashboard focuses on year-to-date (YTD) metrics, comparisons, and visual representations to enhance data interpretation.
-   - ![Dashboard Preview](./Hr-Dash-BI.png)
+   - ![Dashboard Preview](./Car-Dash-BI.png)
 
 ### Excel Projects
 1. **[Blinkit Grocery Analysis Dashboard](https://github.com/BahaaMedhat1/Blinkit-Grocery-Analysis-using-Excel?tab=readme-ov-file#blinkit-grocery-analysis-dashboard)**
