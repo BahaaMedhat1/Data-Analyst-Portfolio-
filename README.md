@@ -15,12 +15,12 @@ Welcome to my portfolio! This README highlights my skills, projects, and certifi
 ---
 
 ## About Me
-Hi! I'm **Bahaa Medhat Wanas**, a junior data analyst with a strong foundation in data analysis and visualization. I graduated from the Faculty of Artificial Intelligence, Kafr Elsheikh University in 2024 with **3.16(B)** GPA, and I am currently enrolled in the ALX Data Science track. I am passionate about leveraging data to uncover insights and drive decision-making.
+Hi! I'm **Bahaa Medhat Wanas**, a junior data analyst with a solid foundation in data analysis and visualization. I graduated from the Faculty of Artificial Intelligence, Kafr Elsheikh University in 2024 with a **3.16 (B)** GPA. Currently, I am enrolled in the ALX Data Science track, where I continue to enhance my data skills. I am passionate about leveraging data to uncover insights and drive data-informed decision-making.
 
 ---
 
 ## Skills
-- **Data Visualization Tools**: Power BI (including Power Query, Dax, Data Modeling, Dynamic Charts)
+- **Data Visualization Tools**: Power BI (including Power Query, DAX, Data Modeling, Dynamic Charts)
 - **Data Manipulation and Analysis**: Excel (including Power Query, Power Pivot, Data Modeling)
 - **Database Management**: MySQL
 - **Other Tools**: Figma (for design)
@@ -110,7 +110,7 @@ Hi! I'm **Bahaa Medhat Wanas**, a junior data analyst with a strong foundation i
 ## Certifications
 
 1. **Bachelor’s Degree in Artificial Intelligence**  
-   - Graduated from the Faculty of Artificial Intelligence, Kafr Elsheikh University Jul 2024.  
+   - Graduated from the Faculty of Artificial Intelligence, Kafr Elsheikh University, July 2024.  
    - ![Degree Certificate](./MyDegree.jpg)  
 
 2. **Egypt - FWD Certificates**  
@@ -142,7 +142,7 @@ Hi! I'm **Bahaa Medhat Wanas**, a junior data analyst with a strong foundation i
 ## Contact and CV
 Feel free to reach out or explore more about my work!
 
-- **[My CV](https://drive.google.com/file/d/1Widi2xcEXcWbIkJpIwSHg-DOuTz2mXji/view?usp=sharing)**
+- **[My CV](https://drive.google.com/file/d/1r9FgIiuit_ezzHzTUqQgHi6Mhtm4F9z6/view?usp=drive_link)**
 - **[LinkedIn](https://www.linkedin.com/in/bahaa-wanas-9797b923a)**
 - **[Bahaawanas427@gmail.com](mailto:Bahaawanas427@gmail.com)** 
 
