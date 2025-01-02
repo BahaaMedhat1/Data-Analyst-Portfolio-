@@ -111,7 +111,7 @@ Hi! I'm **Bahaa Medhat Wanas**, a junior data analyst with a strong foundation i
 
 1. **Bachelor’s Degree in Artificial Intelligence**  
    - Graduated from the Faculty of Artificial Intelligence, Kafr Elsheikh University Jul 2024.  
-   - ![Degree Certificate](./MyDegree.png)  
+   - ![Degree Certificate](./MyDegree.jpg)  
 
 2. **Egypt - FWD Certificates**  
    - **Data Analysis Challenger Track**  
@@ -143,7 +143,7 @@ Hi! I'm **Bahaa Medhat Wanas**, a junior data analyst with a strong foundation i
 Feel free to reach out or explore more about my work!
 
 - **[My CV](https://drive.google.com/file/d/1Widi2xcEXcWbIkJpIwSHg-DOuTz2mXji/view?usp=sharing)**
-- **[Bahaawanas427@gmail.com](mailto:Bahaawanas427@gmail.com)** 
 - **[LinkedIn](https://www.linkedin.com/in/bahaa-wanas-9797b923a)**
+- **[Bahaawanas427@gmail.com](mailto:Bahaawanas427@gmail.com)** 
 
 --- 
