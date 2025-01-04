@@ -142,7 +142,7 @@ Hi! I'm **Bahaa Medhat Wanas**, a junior data analyst with a solid foundation in
 ## Contact and CV
 Feel free to reach out or explore more about my work!
 
-- **[My CV](https://drive.google.com/file/d/1r9FgIiuit_ezzHzTUqQgHi6Mhtm4F9z6/view?usp=drive_link)**
+- **[My CV](https://drive.google.com/file/d/1M_4jf_8aZf81gIBrNaPoPQ56AH8IvcNU/view?usp=sharing)**
 - **[LinkedIn](https://www.linkedin.com/in/bahaa-wanas-9797b923a)**
 - **[Bahaawanas427@gmail.com](mailto:Bahaawanas427@gmail.com)** 
 
